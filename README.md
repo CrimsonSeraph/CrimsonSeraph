@@ -35,5 +35,5 @@
 
 ## 联系方式
 
-BiliBili：浪天幽影(UID：1741002917)
-X：𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟(@CrimSeraph_QwQ)
+- BiliBili：浪天幽影(UID：1741002917)
+- X：𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟(@CrimSeraph_QwQ)
