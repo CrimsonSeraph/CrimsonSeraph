@@ -33,7 +33,7 @@
 - Python_Tools(个人使用的 Python 工具)
 - SNPManager(籍贯管理系统，C++ 练习)
 - DG-lab-Client(目前积极更新的 C++ 公开项目)
-- 2D-ShotGame(Godot 项目，非我持有的私有仓库)
+- 2D-ShotGame(Godot 项目，非我持有的仓库)
 
 ## 联系方式
 
