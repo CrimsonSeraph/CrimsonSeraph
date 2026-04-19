@@ -8,9 +8,9 @@
 - 熟悉 C 语言基础
 - 使用 Qt 进行图形化应用程序开发
 - 入门 Godot 游戏开发
-- 熟悉静态网页相关技术：HTML / CSS / JavaScript
+- 熟悉静态网页相关技术：HTML / CSS / JavaScript（不含后端）
 - 能阅读 Python 代码，了解基础语法
-- 曾学习过 Java（目前未使用）
+- 时不时学习 Java
 
 目前专注于夯实 C++ 基础，以及理解程序设计的底层逻辑与结构。  
 有时会尝试学习 Godot 开发或其他方向内容，如剪辑、建模等。
@@ -25,15 +25,13 @@
 
 持续练习 C++ 中。  
 学习 Godot 游戏开发。  
-设计静态网站并部署。  
 
 ## 部分项目
 
 - Person_Web(当前个人网站，使用 Hugo 的模板开发)
 - Python_Tools(个人使用的 Python 工具)
-- SNPManager(籍贯管理系统，C++ 练习)
 - DG-lab-Client(目前积极更新的 C++ 公开项目)
-- 2D-ShotGame(Godot 项目，非我持有的仓库)
+- 2D-ShotGame(Godot 项目)
 
 ## 联系方式
 
