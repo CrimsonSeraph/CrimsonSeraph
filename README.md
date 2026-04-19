@@ -5,10 +5,10 @@
 ## 关于我
 
 - 主要使用 C++ 进行开发
-- 熟悉 C 语言基础
+- 能阅读 C 语言基础代码
 - 使用 Qt 进行图形化应用程序开发
 - 入门 Godot 游戏开发
-- 熟悉静态网页相关技术：HTML / CSS / JavaScript（不含后端）
+- 能阅读静态网页相关技术：HTML / CSS / JavaScript（不含后端）
 - 能阅读 Python 代码，了解基础语法
 - 时不时学习 Java
 
@@ -28,9 +28,9 @@
 
 ## 部分项目
 
+- DG-lab-Client(目前积极更新的 C++ 公开项目)
 - Person_Web(当前个人网站，使用 Hugo 的模板开发)
 - Python_Tools(个人使用的 Python 工具)
-- DG-lab-Client(目前积极更新的 C++ 公开项目)
 - 2D-ShotGame(Godot 项目)
 
 ## 联系方式
