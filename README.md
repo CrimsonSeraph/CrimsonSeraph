@@ -28,7 +28,8 @@
 
 ## 部分项目
 
-- DG-lab-Client(目前积极更新的 C++ 公开项目)
+- BackroomArchives(目前积极更新的 C++ 公开项目)
+- DG-lab-Client(不定期更新的 C++ 公开项目)
 - Person_Web(当前个人网站，使用 Hugo 的模板开发)
 - Python_Tools(个人使用的 Python 工具)
 - 2D-ShotGame(Godot 项目)
