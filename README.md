@@ -17,8 +17,8 @@
 
 ## 技术方向
 
-- 桌面应用开发（UE）
-- 桌面游戏开发（Godot）
+- 桌面应用开发（Qt）
+- 桌面游戏开发（UE）
 - 静态网页开发（HTML+CSS+JS）
 
 ## 学习状态
@@ -27,7 +27,7 @@
 
 ## 部分项目
 
-- BackroomArchives(目前积极更新的 C++ 公开项目)
+- BackroomArchives(不定期更新的 C++ 公开项目)
 - DG-lab-Client(不定期更新的 C++ 公开项目)
 - Person_Web(当前个人网站，使用 Hugo 的模板开发)
 - Python_Tools(个人使用的 Python 工具)
