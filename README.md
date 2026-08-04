@@ -6,12 +6,9 @@
 ## 关于我
 
 - 主要使用 C++ 进行开发
-- 能阅读 C 语言基础代码
 - 使用 Qt 进行图形化应用程序开发
 - 使用 UE 进行游戏开发
-- 能阅读静态网页相关技术：HTML / CSS / JavaScript（不含后端）
-- 能阅读 Python 代码，了解基础语法
-- 时不时学习 Java
+- 了解 Java / Python / C 与网页相关 HTML / CSS / JavaScript（不含后端）
 
 目前专注于使用 UE 引擎学习制作游戏。  
 
@@ -23,7 +20,7 @@
 
 ## 学习状态
 
-持续学习 UE 引擎中...
+持续学习 UE 引擎与 Blender 动画制作中...
 
 ## 部分项目
 
@@ -34,5 +31,5 @@
 
 ## 联系方式
 
-- BiliBili：[浪天幽影(UID：1741002917)](https://space.bilibili.com/1741002917?spm_id_from=333.1007.0.0)
+- Gmail：CrimsonSeraph.QwQ@gmail.com
 - X：[𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟(@CrimSeraph_QwQ)](https://x.com/CrimSeraph_QwQ)
