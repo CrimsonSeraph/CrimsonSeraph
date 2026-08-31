@@ -2,7 +2,7 @@
 
 > 软件工程 · 大二本科生 · 全栈探索中
 
-> 欢迎加入我的组织！👉[AshesStudio](https://github.com/AshesStudio)
+> 欢迎加入我的组织！👉[EmbersStudio](https://github.com/EmbersStudio)
 
 ---
 
