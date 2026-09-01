@@ -8,13 +8,7 @@
 
 ## 🧑‍💻 关于我
 
-- 🎯 主力语言：**C++**（Qt / UE / 原生开发）
-- 🖥️ 图形界面：**Qt**（桌面应用）
-- 🎮 游戏引擎：**Unreal Engine**（3D） & **Godot**（2D）
-- 🌐 前端基础：HTML / CSS / JavaScript / TypeScript（不含后端）
-- 🐍 其他语言：Java / Python / C
-
-目前正专注于 **更新组织网页**（[EmbersStudio/OrganizationWeb](https://github.com/EmbersStudio/OrganizationWeb)），同时持续打磨数据结构与算法基础。
+目前正专注于 **更新组织网页**（[EmbersStudio/OrganizationWeb](https://github.com/EmbersStudio/OrganizationWeb)）。
 
 ---
 
