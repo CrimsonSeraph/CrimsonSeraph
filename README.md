@@ -1,14 +1,14 @@
 # 👋 你好，我是 CrimsonSeraph
 
-> 软件工程 · 大二本科生 · 全栈探索中
+软件工程 · 大二本科生 · 全栈探索中
 
-> 欢迎加入我的组织！👉[EmbersStudio](https://github.com/EmbersStudio)
+> 欢迎加入我的组织！👉 [EmbersStudio](https://github.com/EmbersStudio)
 
 ---
 
-## 🧑‍💻 关于我
+## 📚 当前
 
-目前正专注于 **更新组织网页**（[EmbersStudio/OrganizationWeb](https://github.com/EmbersStudio/OrganizationWeb)）。
+> 🔄 正在专注于更新组织网页（[EmbersStudio/OrganizationWeb](https://github.com/EmbersStudio/OrganizationWeb)）
 
 ---
 
@@ -37,12 +37,6 @@
 | 🖥️ 桌面应用 | Qt (C++/Python) |
 | 🎮 游戏开发 | Unreal Engine (3D) + Godot (2D) |
 | 🌐 网页制作 | TypeScrip + tHTML + CSS + JavaScript |
-
----
-
-## 📚 当前学习状态
-
-> 🔄 正在专注于更新组织网页（[EmbersStudio/OrganizationWeb](https://github.com/EmbersStudio/OrganizationWeb)）
 
 ---
 
