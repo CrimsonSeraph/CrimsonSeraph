@@ -6,12 +6,6 @@
 
 ---
 
-## 📚 当前
-
-> 🔄 正在专注于更新组织网页（[EmbersStudio/OrganizationWeb](https://github.com/EmbersStudio/OrganizationWeb)）
-
----
-
 ## 🛠️ 技术栈
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -42,11 +36,13 @@
 
 ## 📦 部分项目
 
-- [**Person_Web**](https://github.com/CrimsonSeraph/Personal_Web.git) – 当前个人网站（基于 Hugo 模板）
+- [**Person_Web**](https://github.com/CrimsonSeraph/Personal_Web) – 个人网站
 
-- [**EmbersStudio/OrganizationWeb**](https://github.com/EmbersStudio/OrganizationWeb.git) – 组织官网（当前主力维护，基于 TypeScript + 静态页面）
+- [**EmbersStudio/OrganizationWeb**](https://github.com/EmbersStudio/OrganizationWeb) – 组织官网
 
-- [**DG-lab-Client**](https://github.com/CrimsonSeraph/DG-LAB-Client) – C++ 公开项目（不定期更新）
+- [**Schedule**](https://github.com/CrimsonSeraph/Schedule) – 基于 Qt 的跨平台课表
+
+- [**DG-lab-Client**](https://github.com/CrimsonSeraph/DG-LAB-Client) – Qt 项目
 
 ---
 
