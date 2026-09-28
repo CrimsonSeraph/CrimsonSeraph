@@ -1,6 +1,6 @@
 # 👋 你好，我是 CrimsonSeraph
 
-软件工程 · 大二本科生 · 全栈探索中
+软件工程 · 大二本科生
 
 > 欢迎加入我的组织！👉 [EmbersStudio](https://github.com/EmbersStudio)
 
@@ -51,7 +51,3 @@
 - 📧 Gmail：[CrimsonSeraph.QwQ@gmail.com](mailto:CrimsonSeraph.QwQ@gmail.com)
 
 - 🐦 X（Twitter）：[𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟](https://x.com/CrimSeraph_QwQ)
-
----
-
-> ✨ *“Keep learning, keep building.”*
