@@ -2,6 +2,8 @@
 
 软件工程 · 大二本科生
 
+> 目前正专注其他内容...
+
 > 欢迎加入我的组织！👉 [EmbersStudio](https://github.com/EmbersStudio)
 
 ---
@@ -42,7 +44,7 @@
 
 - [**Schedule**](https://github.com/CrimsonSeraph/Schedule) – 基于 Qt 的跨平台课表
 
-- [**DG-lab-Client**](https://github.com/CrimsonSeraph/DG-LAB-Client) – Qt 项目
+- [**DG-Lab-Client**](https://github.com/CrimsonSeraph/DG-LAB-Client) – Qt 项目
 
 ---
 
