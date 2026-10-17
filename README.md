@@ -48,6 +48,12 @@
 
 ---
 
+🤖 面向 AI 编程
+
+<img src="assets/dsh-whale-voucher-2026-10-17.png" alt="DeepSeek" width="700" height="357">
+
+---
+
 ## 📫 联系我
 
 - 📧 Gmail：[CrimsonSeraph.QwQ@gmail.com](mailto:CrimsonSeraph.QwQ@gmail.com)
