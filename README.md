@@ -48,9 +48,9 @@
 
 ---
 
-🤖 面向 AI 编程
+## 🤖 面向 AI 编程
 
-<img src="assets/dsh-whale-voucher-2026-10-17.png" alt="DeepSeek" width="700" height="357">
+<img src="assets/dsh-whale-voucher-2026-10-17.jpg" alt="DeepSeek" width="700" height="357">
 
 ---
 
