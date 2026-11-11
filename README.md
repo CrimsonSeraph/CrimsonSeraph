@@ -1,21 +1,17 @@
 # 👋 你好，我是 CrimsonSeraph
 
-软件工程 · 大二本科生
-
-> 目前正专注其他内容...
-
-> 欢迎加入我的组织！👉 [EmbersStudio](https://github.com/EmbersStudio)
+软件工程 · 本科生在读
 
 ---
 
 ## 🛠️ 技术栈
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C++20](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
-[![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
+[![Qt6.9.3](https://img.shields.io/badge/Qt6.9.3-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
@@ -40,21 +36,23 @@
 
 - [**Person_Web**](https://github.com/CrimsonSeraph/Personal_Web) – 个人网站
 
+- [**DG-Lab-Client**](https://github.com/CrimsonSeraph/DG-LAB-Client) – Qt 项目😋
+
+- [**Schedule**](https://github.com/CrimsonSeraph/Schedule) – 基于 Qt 的跨平台课表🤓
+
+- [**MoeCounter-Worker_D1**](https://github.com/CrimsonSeraph/MoeCounter-Worker_D1) – 一个可爱的计数器
+
 - [**EmbersStudio/OrganizationWeb**](https://github.com/EmbersStudio/OrganizationWeb) – 组织官网
-
-- [**Schedule**](https://github.com/CrimsonSeraph/Schedule) – 基于 Qt 的跨平台课表
-
-- [**DG-Lab-Client**](https://github.com/CrimsonSeraph/DG-LAB-Client) – Qt 项目
 
 ---
 
 ## 🤖 面向 AI 编程
 
-<img src="assets/dsh-whale-voucher-2026-10-20.png" alt="DeepSeek" width="700" height="357">
+<img src="assets/dsh-whale-voucher-2026-11-02.jpg" alt="DeepSeek" width="700" height="360">
 
 ---
 
-## 📫 联系我
+## 📫 联系我 / 社交账号
 
 - 📧 Gmail：[CrimsonSeraph.QwQ@gmail.com](mailto:CrimsonSeraph.QwQ@gmail.com)
 
